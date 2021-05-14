@@ -70,5 +70,4 @@ button_save_tasks = tkinter.Button(root, text="Save tasks", width=48, command=sa
 button_save_tasks.pack()
 
 
-
 root.mainloop()
